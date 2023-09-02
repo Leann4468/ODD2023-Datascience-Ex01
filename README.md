@@ -19,9 +19,9 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT:
-Name: G.TEJASWINI
+Name: LEANN JOBY MATHEW
 
-Reg no: 212222230157
+Reg no: 212222230074
 ```python
 import pandas as pd
 df=pd.read_csv("SAMPLEDS - Sheet1 (2).csv")
